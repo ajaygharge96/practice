@@ -13,15 +13,18 @@ h2 {
     letter-spacing: 4px;
     font-size: 14px;
     text-align: center;
+    
 }
 
 .clock {
     display: flex;
     position: relative;
+    
 }
 
 .clock div {
     margin: 5px;
+    
 }
 
 .clock span {
@@ -43,6 +46,7 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 2px;
     background: rgba(0, 0, 139, 0.8);
+    
 }
 
 .clock #ampm {
@@ -53,4 +57,5 @@ h2 {
     height: 30px;
     font-size: 20px;
     background: green;
+    
 }
